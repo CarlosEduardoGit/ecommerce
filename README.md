@@ -1,4 +1,4 @@
-# ConstruFácil - E-Commerce 
+# ConstruFácil - Plataforma de E-Commerce 
 
 ## 🖥️ Preview do Sistema
 
