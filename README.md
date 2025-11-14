@@ -6,6 +6,8 @@
   <img src="imagens/construfacil.png" alt="Tela Principal - ConstruFácil" width="800">
   <br>
   <sup>Interface principal da plataforma JobConnect</sup>
+  <br>
+  https://carloseduardogit.github.io/ecommerce/
 </div>
 
 ## 📋 Sobre o Projeto
